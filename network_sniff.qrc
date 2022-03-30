@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="network_sniff">
+    </qresource>
+</RCC>
